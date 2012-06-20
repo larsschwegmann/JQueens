@@ -182,10 +182,10 @@ public class JQueens {
             if(this.placedCorrectly()){
                 if(row == this.boardsize - 1){
                     this.printResults();
-                    System.out.println("-------");
+                    System.out.println("================================================================================");
                     JQueens.solutions++;
                     System.out.println("Solutions already found: " + JQueens.solutions);
-                    System.out.println("-------");
+                    System.out.println("================================================================================");
                 }else{
                     placeQueen(row+1); //recursion
                 }
