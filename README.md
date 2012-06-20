@@ -6,7 +6,7 @@ Description
 Solves the popular '8-Queens' or 'N-Queens' problem by utilizing recursive backtraking.
 Described more easily, this application bruteforces all methods possible.
 This picture is a visual explanation of what JQueens does:
-[NQueens animation from wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1f/Eight-queens-animation.gif)
+![NQueens animation from wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1f/Eight-queens-animation.gif)
 Although recursive action drain much memory and keep the CPU busy very long, it is still the most effective method to solve this problem.
 The idea behind this came from the german Wikipedia Site, which describes the Bruteforcing method with a Python application: http://de.wikipedia.org/wiki/Damenproblem#Rekursives_Backtracking
 
