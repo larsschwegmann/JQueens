@@ -12,7 +12,7 @@ The idea behind this came from the german Wikipedia Site, which describes the Br
 
 Interface
 ---------
-As you can see on the picture below, JQueens is just a plain console application. A one stands for a set queen, a zero stands for an empty field.
+As you can see on the picture below, JQueens is just a plain console application. A one stands for a set queen, a zero stands for an empty field.<br />
 ![JQueens running in a Terminal window on Mac OS X Lion](http://f.cl.ly/items/3q462m04431U3I3R1v30/Bildschirmfoto%202012-06-20%20um%2016.09.25.png)
 
 Building
