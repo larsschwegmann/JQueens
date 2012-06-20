@@ -14,6 +14,7 @@ Interface
 ---------
 As you can see on the picture below, JQueens is just a plain console application. A one stands for a set queen, a zero stands for an empty field.<br />
 ![JQueens running in a Terminal window on Mac OS X Lion](http://f.cl.ly/items/3q462m04431U3I3R1v30/Bildschirmfoto%202012-06-20%20um%2016.09.25.png "JQueens running in a Terminal window on Mac OS X Lion")
+![JQueens after completing a 14 row/collumn task](http://f.cl.ly/items/332u003X1u1O250R3R43/Bildschirmfoto%202012-06-20%20um%2021.25.09.png "JQueens after the completion of a 15 row/collumn task")
 
 Building
 --------
