@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+/JQueens/nbproject/private/
+/JQueens/build/
+/JQueens/dist/
